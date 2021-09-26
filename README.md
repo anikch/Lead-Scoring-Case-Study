@@ -17,3 +17,7 @@ https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Summary%20Report%20-
 Analysis, Model Building, Conclusion and Reccomendation:
 
 https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.pdf
+
+Jupyter Notebook:
+
+https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.ipynb
