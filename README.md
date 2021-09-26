@@ -11,7 +11,9 @@ Goal:
 2. Identifying Hot Leads by generating Lead Score for all leads, so that leads having higher Lead Scores can be contacted with priority for achieving Higher Lead Conversion Rate.
 
 Summary Report:
+
 https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Summary%20Report%20-%20Lead%20Scoring%20Case%20Study.pdf
 
 Analysis, Model Building, Conclusion and Reccomendation:
+
 https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.pdf
