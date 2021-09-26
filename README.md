@@ -12,7 +12,7 @@ writing emails, etc. Through this process, some of the leads get converted while
 1. To identify the features that contributes to predict Lead Conversion. 
 2. Identifying Hot Leads by generating Lead Score for all leads, so that leads having higher Lead Scores can be contacted with priority for achieving Higher Lead Conversion Rate.
 
-## Summary Report:
+## Approach taken:
 
 https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Summary%20Report%20-%20Lead%20Scoring%20Case%20Study.pdf
 
